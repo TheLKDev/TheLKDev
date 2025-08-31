@@ -1,9 +1,9 @@
 ## Olá! Prazer, eu sou o Lorran 🖖
 Programador em formação e sempre na luta! Seja bem vindo ao meu espaço, e sinta-se à vontade para interações!🫡 <br/><br/>
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/TheLKDev)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thelkdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelkdev?igsh=bWptaWZjMm54czF6)
-<a href="lksf214@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" style="display: inline_block">
+<a href="mailto:lksf214@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail">
 </a>
 
 ## Tecnologias em Foco
